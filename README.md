@@ -1,2 +1,2 @@
 # runbuddy
-A website for dedicated athletes who need trainers or ficility to trian. 
+A website for dedicated athletes to meet up with a trainer. 
